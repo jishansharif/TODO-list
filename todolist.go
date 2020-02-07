@@ -41,5 +41,5 @@ func main() {
 
 	fmt.Printf("%s\n", firstreminder.String())
 	firstreminder.add(99)
-
+	fmt.Printf("%s\n", firstreminder.String())
 }
