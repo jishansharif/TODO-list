@@ -29,4 +29,6 @@ func main() {
 	thirdreminder.Reminder = "Study for Math's midterm!"
 	thirdreminder.Priority = 1
 
+	fmt.Printf(firstreminder \n secondsecondreminder \n thirdthirdreminder)
+
 }
