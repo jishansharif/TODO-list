@@ -40,6 +40,7 @@ func main() {
 	thirdreminder.Priority = 1
 
 	fmt.Printf("%s\n", firstreminder.String())
+
 	firstreminder.add(99)
 	fmt.Printf("%s\n", firstreminder.String())
 }
