@@ -5,6 +5,7 @@ import "fmt"
 type todolist struct {
 	date     string
 	Reminder string
+	Priority int
 }
 
 func main() {
